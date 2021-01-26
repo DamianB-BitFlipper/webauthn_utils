@@ -1,3 +1,3 @@
-module github.com/webauthn.io
+module github.com/JSmith-BitFlipper/webauthn_utils
 
 go 1.14
